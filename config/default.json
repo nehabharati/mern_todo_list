@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nehabh21:Thingsavril4$@cluster0-qhntg.gcp.mongodb.net/shopping?retryWrites=true&w=majority",
+    "jwtSecret": "mern_sl_jwt"
+}
